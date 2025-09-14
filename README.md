@@ -1,2 +1,2 @@
-# VIP-GC
-Global Contraction
+# VIP-
+Global
